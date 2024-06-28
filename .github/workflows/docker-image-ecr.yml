@@ -31,7 +31,7 @@ jobs:
       with:
         context: .
         push: true
-        tags: public.ecr.aws/b2f2g3q4/ipfs-metadata:latest
+        tags: public.ecr.aws/b2f2g3q4/ipfs-metadata:01
 
     - name: Image digest
       run: echo ${{ steps.build-and-push.outputs.digest }}
