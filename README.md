@@ -1,7 +1,6 @@
 
 
 ## Documentation for Building, Running, and Deploying the Application
-
 ---
 
 ### 1. How to Build and Run the Docker Container
