@@ -5,7 +5,7 @@
 
 ### 1. How to Build and Run the Docker Container
 
-**Step 1: Building the Docker Container**
+**Step 1: Building the Docker Container**  
 
 1. Navigate to your project directory:
    ```bash
